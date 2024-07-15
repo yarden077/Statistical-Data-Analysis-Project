@@ -13,6 +13,7 @@ This project is divided into 5 parts, each applying different statistical method
   - This section applies linear regression to determine how fried potato consumption, depression, and smoking history influence alcohol consumption. It also uses logistic regression to analyze the impact of weight and height on heart disease and evaluate different models using metrics like AIC. Additionally, it examines associations between variables such as height, weight, smoking history, and the occurrence of heart disease.
 
 - **Part 4 - Bootstrap Method:**
+  - In this section, I used the same research question from the previous one, utilizing bootstrap methods.
   
 
 - **Part 5 - Bayesian Inference and Missing Data:**
