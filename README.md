@@ -17,4 +17,5 @@ This project is divided into 5 parts, each applying different statistical method
   
 
 - **Part 5 - Bayesian Inference and Missing Data:**
+- This section applies Bayesian techniques to analyze alcohol consumption differences between genders. It estimates the parameter phi using various methods, including bootstrap and Bayesian credible intervals, while comparing different prior distributions. The analysis incorporates historical data and demonstrates how Bayesian methods can refine estimates by integrating prior knowledge with new data. Additionally, this part addresses the challenge of missing data, exploring techniques to handle incomplete datasets and assessing their impact on the analysis results.
   
